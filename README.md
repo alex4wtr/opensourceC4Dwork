@@ -11,7 +11,7 @@
 
 ###### CC0 License
 
-<img src="https://images.g2crowd.com/uploads/product/image/social_landscape/social_landscape_1489697329/cinema-4d.jpg" width="150"></img> <img src="https://banner2.kisspng.com/20180620/hzz/kisspng-creative-commons-license-cc0-lisenssi-public-domai-5b2ab0b28306e0.8202318315295244025367.jpg" width="75"></img>
+---
 
 <p/><p/>
 
