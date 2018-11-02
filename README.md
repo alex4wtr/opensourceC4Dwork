@@ -11,4 +11,4 @@
 
 ###### CC0 License
 
-<img src="https://images.g2crowd.com/uploads/product/image/social_landscape/social_landscape_1489697329/cinema-4d.jpg"></img>
+<img src="https://images.g2crowd.com/uploads/product/image/social_landscape/social_landscape_1489697329/cinema-4d.jpg" width="150"></img>
