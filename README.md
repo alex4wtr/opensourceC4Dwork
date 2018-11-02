@@ -8,3 +8,5 @@ some cinema 4d work i've recently done and decided to:
 - I will finish the work in about one or two weeks
 
 #### ideal 2 pass throughout some presets in arnold, octane, or vray, or to render with ue4, unity, cryengine or lumberyard
+
+###### CC0 License
