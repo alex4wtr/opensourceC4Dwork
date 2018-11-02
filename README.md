@@ -1,6 +1,6 @@
 # opensourceC4Dwork
 
-**some cinema 4d work i've recently done and decided to:**
+**some cinema 4d work i've recently done consisting of elementary 3d shapes and animations I decided to:**
 - _*opensource as a portfolio for future commissions*_
 - _*if you want to hire 2 work for you:*_
   - _*selfdeterminedhermit [at] gmail [dot] com*_
