@@ -2,7 +2,7 @@
 
 #### Table Of Contents (ToC)
 
-#### goals of the repository
+#### - goals of the repository
 
 ---
 
