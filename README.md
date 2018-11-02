@@ -7,4 +7,4 @@ some cinema 4d work i've recently done and decided to:
 - i can make you like 50-200 shapes as prototypes at the level of these for like 150-225 euros
 - I will finish the work in about one or two weeks
 
-#### ideal 2 pass throughout some presets in arnold, octane, or vray, or to render with ue4, unity, or cryengine
+#### ideal 2 pass throughout some presets in arnold, octane, or vray, or to render with ue4, unity, cryengine or lumberyard
