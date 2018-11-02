@@ -1,7 +1,6 @@
 # opensourceC4Dwork
 
-Table Of Contents (ToC)
-=======================
+#### Table Of Contents (ToC)
 
 #### goals of the repository
 
